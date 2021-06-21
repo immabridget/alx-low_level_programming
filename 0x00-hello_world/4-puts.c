@@ -3,7 +3,7 @@
  * main- using puts
  * @Mystr
 (* Description: this function uses the puts standard output function)?
- * Return: The main Function returns null value 
+ * Return: Always 0 Success
  */
 int main(void)
 {
