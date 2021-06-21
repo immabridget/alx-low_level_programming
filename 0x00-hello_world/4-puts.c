@@ -1,6 +1,9 @@
 
 
 #include <stdio.h>
+/**
+ * using puts function
+ */
 
 int main(void)
 {
