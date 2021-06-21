@@ -2,7 +2,11 @@
 
 #include <stdio.h>
 /**
- * using puts function
+ * main - using puts
+ * @parameterMystr: a variable to store the value to be printed
+ (*
+ * Description: this function uses the puts standard output function)?
+ * Return: The main Function returns null value 
  */
 
 int main(void)
