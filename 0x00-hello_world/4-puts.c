@@ -2,8 +2,8 @@
 /**
  * main - using puts
  * @Mystr
- (* Description: this function uses the puts standard output function)?
- * Return: The main Function returns null value 
+ (* Description:this function uses the puts standard output function)?
+ * Return:The main Function returns null value 
  */
 int main(void)
 {
