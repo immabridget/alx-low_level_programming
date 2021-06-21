@@ -10,9 +10,10 @@ int main(void)
 {
 int x;
 
-for(x = 'A'; x <= 'z'; x++)
+for (x = 'A'; x <= 'z'; x++)
 {
-	putchar(tolower(x));
+	x = tolower(x);
+	putchar(x);
 }
 return (0);
 }
